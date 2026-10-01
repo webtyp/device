@@ -3,8 +3,9 @@ PLAN: "feat: Profile, Tier, Bench and Requirement — what this browser can do"
 TAG: v0.1.0
 EXECUTOR: jules
 REVIEWER: none
-STATUS: running
+STATUS: review
 SESSION: 8681699153495066669
+PR: https://github.com/webtyp/device/pull/1
 ---
 
 > This plan is dispatched via the CodeJob workflow. See skill: agents-workflow.
