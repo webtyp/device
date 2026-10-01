@@ -3,6 +3,8 @@ PLAN: "feat: Profile, Tier, Bench and Requirement — what this browser can do"
 TAG: v0.1.0
 EXECUTOR: jules
 REVIEWER: none
+STATUS: running
+SESSION: 8681699153495066669
 ---
 
 > This plan is dispatched via the CodeJob workflow. See skill: agents-workflow.
